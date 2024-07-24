@@ -1,1 +1,3 @@
-# FinalProject_SmartBudget
+# budget_smart
+
+A new Flutter project.
